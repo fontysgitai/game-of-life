@@ -46,11 +46,11 @@
                     <container>
                         <containerId>glassfish4x</containerId>
                         <type>installed</type>
-                        <home>/opt/payara</home>
+                        <home>/usr/local/glassfish-4.1.1</home>
                     </container>
                     <configuration>
                         <type>existing</type>
-                        <home>/opt/payara/glassfish/domains</home>
+                        <home>/usr/local/glassfish-4.1.1/glassfish/domains</home>
                         <properties>
                             <cargo.glassfish.domain.name>gameoflife-acceptance</cargo.glassfish.domain.name>
                             <cargo.remote.username>admin</cargo.remote.username>
