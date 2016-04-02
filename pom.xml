@@ -53,7 +53,6 @@
                         <home>/opt/payara/glassfish/domains</home>
                         <properties>
                             <cargo.glassfish.domain.name>gameoflife-acceptance</cargo.glassfish.domain.name>
-                            <cargo.remote.port>4849</cargo.remote.port>
                             <cargo.remote.username>admin</cargo.remote.username>
                             <cargo.remote.password>admin</cargo.remote.password>
                         </properties>
