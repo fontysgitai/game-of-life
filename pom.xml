@@ -53,8 +53,6 @@
                         <home>/usr/local/glassfish-4.1.1/glassfish/domains</home>
                         <properties>
                             <cargo.glassfish.domain.name>gameoflife-acceptance</cargo.glassfish.domain.name>
-                            <cargo.remote.username>admin</cargo.remote.username>
-                            <cargo.remote.password>admin</cargo.remote.password>
                         </properties>
                     </configuration>
                 </configuration>
